@@ -1,0 +1,1155 @@
+{
+	"--comment--" : "Only banners are bound to device localization. The rest is user's choice bound to languages.",
+	
+	"languages":
+	[
+		{
+			"id":1,
+			"name":"English"
+		},
+		{
+			"id":2,
+			"name":"Русский"
+		},
+		{
+			"id":3,
+			"name":"中文"
+		}
+	],
+	"banners":
+	[
+		{
+			"id":1,
+			"imageEn":"vedareader-baner-eng.png",
+			"imageRu":"vedareader-baner.png",
+			"bookID":1
+		},
+		{
+			"id":4,
+			"imageEn":"vedareader-baner-1.png",
+			"imageRu":"vedareader-baner-2.png",
+			"bookID":16
+		},
+		{
+			"id":1,
+			"imageEn":"HS-banner-en.png",
+			"imageRu":"HS-banner-ru.png",
+			"siteURL":"http://holyspotsapp.com"
+		},
+		{
+			"id":2,
+			"imageEn":"VO-banner-en.png",
+			"imageRu":"VO-banner-ru.png",
+			"siteURL":"https://itunes.apple.com/us/app/vedaoracle/id497260210?l=ru&ls=1&mt=8"
+		}
+
+	],
+	"recommendations":
+	[
+		{
+			"id":1,
+			"bookID":1
+		},
+		{
+			"id":2,
+			"bookID":2
+		},
+		{
+			"id":3,
+			"bookID":3
+		},
+		{
+			"id":4,
+			"bookID":4
+		},
+		{
+			"id":5,
+			"bookID":8
+		},
+		{
+			"id":6,
+			"bookID":43
+		},
+		{
+			"id":7,
+			"bookID":10
+		},
+		{
+			"id":8,
+			"bookID":45
+		},
+		{
+			"id":9,
+			"bookID":65
+		}
+		
+	],
+	"authors":
+	[
+		{
+			"id":1,
+			"language":2,
+			"name":"Шрила Шридхар Махарадж",
+			"image":"BRShridharMj.jpg",
+			"desc":"Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж — величайший вайшнавский святой-наставник двадцатого столетия родился в благородной брахманской семье Шри Рамендра Чандра Бхаттачарьи в Хапанье. С детства он проявлял необычайные духовные качества и привлекся Санкиртаной Шри Чайтаньи Махапрабху.\n\nШрила Шридхар Махарадж поступил в Бахарампурский Университет, по окончании которого занимался изучением права, но так и не завершил курс, присоединившись к движению Махатмы Ганди в 1921 году. В 1926 году он стал учеником Шрилы Бхактисиддханты Сарасвати Тхакура Прабхупады, основателя Гаудия Матха с представительствами по всей Индии и за рубежом.\n\nВ 1930 году он принимает санньясу (святое отречение). Гуру дал ему титул Триданди Санньяси «Бхакти Ракшак Шридхар», что означает «Хранитель Преданности» за его глубокую духовную реализацию и энциклопедические знания. Гуру называл его также Шастра-нипуна, что значит «тот, кто обладает глубоким знанием Писаний, духовный гений». Шрила Шридхар Махарадж умел лаконично и доступно объяснять сложные эзотерические истины. Часто ему приходилось комментировать лекции Шрилы Бхактисиддханты Сарасвати Тхакура, своим духовным братьям.\n\nПутешествуя по Индии, проповедуя на Бенгали, Хинди, Санскрите и Английском, Бхакти Ракшак Шридхар становится известным проповедником Миссии Гаудия Вайшнавизма. Он успешно распространяет послание Господа Чайтаньи в различных колледжах и университетах, проводит публичные семинары и фестивали.\n\nПеред своим уходом из этого мира Шрила Бхактисиддханта Сарасвати Тхакур попросил его спеть гимн «Шри Рупа-манджари-пада», посвященный самым возвышенным и сокровенным духовным истинам. Таким образом он ясно указал на Шридхару Махараджа как на своего действительного преемника, которому надлежит стать Патриархом всей Шри-Рупануга-сампрадайи.\n\nПосле ухода Бхактисиддханты Сарасвати Гаудия Матх распался и Шрила Шридхар Махарадж оставил движение. Какое-то время он жил уединенно, затем, в 1941 году, основал собственную Миссию — Шри Чайтанья Сарасват Матх с центром в Шри Навадвип Дхаме.\n\nНеизменно почитаемый всеми своими духовными братьями и многими другими вайшнавами, Шрила Шридхар Махарадж был истинным Бхакти Ракшаком — хранителем высочайших идеалов Чистой Преданности. Множество искренних душ стекалось в его обитель, расположенную в святой Шри Набадвипа-Дхаме. Его чудесные качества: величайшая любовь, скромность, смирение, справедливость, сострадание, умиротворенность, готовность всегда прийти на помощь, способность все приводить в гармонию, в сочетании с бескомпромиссной верностью Гаудия-сиддханте, привлекали к нему сердца людей. Его блестящие труды на санскрите и бенгали, а также беседы на английском языке стали несравненными сокровищами духовности Гаудий.\n\nВ конце 70-х — начале 80-х годов к Шриле Шридхаре Махараджу стали приходить западные преданные, и постепенно, основанная им Миссия — Шри Чайтанья Сарасват Матх, распространилась еще больше. В 1985 году, незадолго до своего ухода из этого мира, Шрила Шридхар Махарадж официально назначил преемником и ачарьей Шри Чайтанья Сарасват Матха своего ближайшего ученика и слугу Шрилу Бхакти Сундар Говинду Дев-Госвами Махараджа."
+		},
+		{
+			"id":2,
+			"language":1,
+			"name":"Srila Sridhar Maharaj",
+			"image":"BRShridharMj.jpg",
+			"desc":"Om Vishnupad Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj is the Founder-Acharya of the Sri Chaitanya Saraswat Math in Nabadwip, West Bengal, India. He appeared in the world in 1895 at Hapaniya, Burdwan, West Bengal.\n\nFrom his childhood he had inner faith in Sri Chaitanya Mahaprabhu, with a natural attraction and affinity for nama-sankirtan; his scholarship and worldly detachment was formidable. His first contact with Sri Gaudiya Math was in 1923, and he fully commited himself to this Mission of his Guru, Srila Bhakti Siddhanta Saraswati Goswami Prabhupad, in 1926. In 1930 his Guru gave him sannyasa, giving him his transcendental name, Bhakti Rakshak [Guardian of Devotion]. He took a prominent part in the founding, organizing and preaching of many of the Sri Gaudiya Maths all over India.\n\nSrila Sridhar Maharaj composed many unique spiritual prayers and commentaries in Sanskrit and Bengali, revealing a devotional stature in common with that of the famed Goswamis of Vrindavan. Often thought even more amazing was his special ability to represent those thoughts in the international language of English. In this way, many of his Holy Teachings have been published in the form of books.\n\nSrila Sridhar Maharaj departed from the eyes of the mortal world in 1988. Thousands from all over the globe had by this time taken shelter in him as disciples. Prior to his departure, publicly, and in his Last Will and Testament, he named his beloved Divine Servitor Srila Bhakti Sundar Govinda Maharaj as his successor.\n\n\nA Brief Biography\nHis Divine Grace Sri Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj, the founder of the Sri Chaitanya Saraswat Math, was born in India in 1895, in a respected Brahmana family of the Bhattacarya order, at Hapaniya, District Burdwan, West Bengal. He received his education at Baharamapur University.\n\nHaving taken his pious birth in Sri Gauda-Mandal, the holy lands where Sri Chaitanya Mahaprabhu exhibited His divine pastimes on this earth, Srila Sridhar Maharaj, from his very childhood, had a natural affinity for the mission of Sri Chaitanya Sankirtan – the Grand Congregational Chanting of the Holy Names of the Supreme Lord.\nIn 1926, Srila Sridhar Maharaj joined the Sri Gaudiya Math, and became an initiated disciple of its founder, the illustrious Srila Bhakti Siddhanta Saraswati Thakur Goswami Prabhupad (1874-1937). He later accepted the holy order of sannyasa (monkhood) in 1930. Recognizing him as a faithful stalwart preacher of the perfect precepts of Gaudiya Vaishnavism, Srila Bhakti Siddhanta Saraswati Prabhupad conferred upon him the name Sri Bhakti Rakshak, which means Guardian of Devotion. And further echoing the statement of the great Vaishnava Preceptor, Srila Jiva Goswami – who referred in his Sanskrit writings to the renowned Srimad Bhagavatam commentator, Sri Sridhar Swami, as bhakti eka raksaka [Supreme Guardian of Devotion] – Srila Bhakti Siddhanta Saraswati Prabhupad gave him the Tridandi-Sannyasa title of Sridhar. Thus, he became Srila Bhakti Rakshak Sridhar Maharaj.\n\nAs a prominent preacher in the Sri Gaudiya Math mission, he travelled extensively throughout India and preached fluently in Bengali, Hindi, Sanskrit, and English, spreading the teachings of Sri Chaitanya Mahaprabhu on many levels in universities, public seminars, and Sankirtan festivals.\n\nSrila Bhakti Siddhanta Saraswati Prabhupad also expressed high appreciation of Srila Sridhar Maharaj's Sanskrit composition, Sri Bhaktivinoda Viraha Dasakam, considering it an omen of assurance that the grand ideals and dignity of the Sri Gaudiya Sampradaya would be perfectly upheld and preached by such a learned and sensitive devotee as Srila Sridhar Maharaj.\n\nAs a testimony to this fact, just prior to Srila Bhakti Siddhanta Saraswati Thakur Prabhupad's departure from this mortal world, Srila Prabhupad had Srila Sridhar Maharaj sing, in his presence, the holy prayer most venerated by the entire Sri Gaudiya Vaishnava community, Sri Rupa Manjari Pada.\n\nAfter the passing of Srila Bhakti Siddhanta Saraswati Thakur Goswami Prabhupad, Srila Sridhar Maharaj's Godbrothers, associates, and the public, naturally revered him as the senior-most representative of the Sri Gaudiya Sampradaya, although Srila Sridhar Maharaj himself was more inclined to anonymity as a humble Vaishnava. Nonetheless, by the call of divine duty and divine inspiration, he established the Sri Chaitanya Saraswat Math at Sri Nabadwip Dham, hinting in a short Sanskrit poem that the Math -- as a sanctuary where the holy message of his Gurudev, Sri Rupa, and Sri Chaitanya Mahaprabhu was preached -- would inevitably become renowned throughout the world amongst the sincere and pious seekers of Unalloyed Truth and Divinity.\nSrila Sridhar Maharaj is the composer of numerous classical prayers and commentaries in Sanskrit and Bengali. His works are hailed as gems of pure Vaishnavism by scholars, philosophers, and devotees worldwide. He authored Sri Sri Prapanna Jivanamrtam, a Sanskrit devotional treatise on the subject of divine surrender, which has become a standard text-book for devotees everywhere.\n\nUpon reaching his eighties, not only Indians, but persons from America, Europe, and the world over, became attracted by Srila Sridhar Maharaj's teachings and personality. He was known as a pure saint of the most simple living habits. He was respected and loved for his saintly simplicity, and his affectionate nature and dealings. He was revered by his Godbrothers, disciples, other devotees, and the general public, and was unanimously venerated for his formidable encyclopedic command of the revealed scriptures, and his unique and unprecedented style of casting newer and newer light upon the most internal philosophical and revelatory purports of pure Sri Gaudiya Vaishnava Siddhanta.\n\nA vast library of Srila Sridhar Maharaj's taped discourses has been compiled by his disciples, and from such recordings, the exquisite English books -- Search for Sri Krishna, Sri Guru and His Grace, The Golden Volcano of Divine Love, Loving Search for the Lost Servant, and Srila Sridhar Maharaj's unique commentary and interpretation of Srimad Bhagavad Gita: The Hidden Treasure of the Sweet Absolute - and many other books have been published. Many more publications are also anticipated.\nOn August 12th, 1988, His Divine Grace Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj departed from this world, to enter into his eternal pastimes. His departure did not herald the departure of one of the great stars of the Sri Gaudiya Vaishnava firmament, but that of the moon itself. Even the Earth herself trembled on two occasions, forecasting and punctuating the event. A divine temple, The Temple of Union in Separation, was erected at his holy shrine at Sri Chaitanya Saraswat Math, Nabadwip, and worship will continue throughout the generations.\n\nSrila Sridhar Maharaj selected his most intimate and senior Sannyasi disciple, Srila Bhakti Sundar Govinda Maharaj, as his successor, blessing him with the position of Acharya-President of Sri Chaitanya Saraswat Math and its affiliated branches worldwide."
+		},
+		
+		{
+			"id":3,
+			"language":2,
+			"name":"Шрила Говинда Махарадж",
+			"image":"BSGovindaMaharaj.jpg",
+			"desc":"Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж явился в этот мир в 1929 году в деревне Брахманпара, округ Бурдван, Западная Бенгалия. В 1947 году, семнадцатилетним юношей он принял прибежище лотосных стоп Шрилы Шридхара Махараджа и остается верным служению ему до настоящего времени.\nГурудев, видя исключительные духовные качества юноши, уже в первые дни после прихода Говинды Махараджа, определил его как своего будущего преемника, и не менял этого решения никогда. В 1985 году Шридхар Махарадж посвятил его в санньясу и официально зарегистрировал «Акт о порядке наследования», доверив ему пост ачарйи-президента Шри Чайтанья Сарасват Матха. Сам Шрила Говинда Махарадж говорит:«Я обещал Шриле Шридхару Махараджу, что буду служить его Миссии, его Божествам и его преданным. Таков смысл моей санньясы».\nНачиная с 1992 года Шрила Говинда Махарадж неустанно путешествует по всему миру, проповедуя послание Шри Чайтаньи Махапрабху и являя свою милость удачливым душам на всех континентах планеты. Он неоднократно посещал и Россию.\nШрила Говинда Махарадж пленяет сердца тысяч людей своей любовью, милосердием, смирением и удивительным даром объяснять самые сложные и возвышенные духовные концепции простым языком. «Любовь к Святому Имени, милосердие к живым существам и служение вайшнавам» — эти слова точно передают суть Миссии Шрилы Говинды Махараджа.\n27 марта 2010 года, в благоприятный день Гаура-двадаши, Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж по собственной сладостной воле оставил этот мир. На своей вьяса-пудже 4 декабря 2009 года Шрила Говинда Махарадж объявил, что выбрал Шрилу Бхакти Нирмал Ачарью Махараджа своим преемником и Ачарьей Шри Чайтанья Сарасват Матха."
+		},
+		{
+			"id":9,
+			"language":1,
+			"name":"Srila Bhaktivinod Thakur",
+			"image":"BhaktivinodThakur.jpg",
+			"desc":"Srila Sachchidananda Bhakti Vinod Thakur, the nineteenth century pioneer of Krishna consciousness, was born in 1838 in Bengal. He worked tirelessly to preserve the spiritual tradition and literature of India; he composed, edited, and published more than 100 books in Sanskrit, Bengali, and English.\nThe pioneer of pure devotion, it was Srila Bhakti Vinod Thakur who foretold that people the world over would join under the banner of Sri Chaitanya Maharabhu’s Hari-nam-sankirtan (congregational chanting of the Holy Names of Lord Krishna). By his profuse writings, Srila Bhakti Vinod Thakur infused the current which was to be the renaissance of a devotional civilization, which had become overgrown with spurious interpretations und misrepresentation.\nHe advocated exclusive surrender (sharanagati) to the service of the Supreme Lord’s pure devotees as the life of devotion, and to this end he composed a great stream of books, prayers, poems, and commentaries in Sanskrit, Bengali, Hindi, English, and other languages, which are now revered by the genuine devotees as scripture. His style of presentation was chiefly analytic, simple, and appealing. He taught that the apparently sophisticated philosophies and doctrines which deviate one to materialism, salvation, voidism, etc. (karma, jnan, sunya-vad, etc.) must be abandoned by the true aspirants of devotion; yet, he acknowledged that from the universal standpoint such ‘charming’ distractions served to segregate the insincere from the sincere. Thus he foresaw that inevitably the intelligentsia of the world must come to appreciate the all-attractive path of divine love given by Sri Chaitanya Mahaprabhu.\nThe Thakur inaugurated the worship of Lord Chaitanya at the holy site known as Sri Yoga-Pith, the advent location of Sri Chaitanyadev in the holy Sri Dham Mayapur."
+		},
+		{
+			"id":5,
+			"language":2,
+			"name":"Шрила Бхактивинод Тхакур",
+			"image":"BhaktivinodThakur.jpg",
+			"desc":"Шрила Бхактивинод Тхакур — великий вайшнавский святой, мыслитель и поэт, во второй половине ХIХ века положивший начало ренессансу гаудия-вайшнавизма. Автор огромного числа книг и песен, в высшей степени почитаемых и ценимых преданными. Отец и духовный наставник Шрилы Сарасвати Тхакура."
+		},
+		{
+			"id":6,
+			"language":1,
+			"name":"Srila Govinda Maharaj",
+			"image":"BSGovindaMaharaj.jpg",
+			"desc":"Om Vishnupad Srila Bhakti Sundar Govinda Dev-Goswami Maharaj appeared in this world in 1929 at Brahmanpara, District Burdwan, West Bengal. He came to the lotus feet of his gurudev Om Vishnupad Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj in 1947, and has remained faithfully in his service ever since.\nHistory tells us that from the very beginning he held the unrivalled position of the most intimate and faithful servitor of Srila Sridhar Maharaj, and from the beginning Srila Sridhar Maharaj revealed his wish that Srila Govinda Maharaj would occupy the position of his successor in the future. Srila Govinda Maharaj also enjoyed the long and intimate association of Om Visnupad Srila A.C. Bhaktivedanta Swami Maharaj, who referred to him as his dearmost son.\nFulfilling a wish he cherished for about forty years, Srila Sridhar Maharaj conferred sannyasa upon Srila Govinda Maharaj in 1985, giving his final and irrevocable decision of his selection of Srila Govinda Maharaj as his successor President-Acharya of his Sri Chaitanya Saraswat Math of Nabadwip, with all of its branches in India and internationally.\nLike his illustrious Divine Master, Srila Govinda Maharaj has given us numerous pure devotional compositions in Sanskrit and Bengali, most valuable for the cultivation of spiritual life. His holy talks are also being published in book form.\nSrila Govinda Maharaj has travelled around the world many times, and he has attracted thousands of people in such places as India, the U.S.A., Mexico, England, Europe, South America, Africa, Mauritius, Australia, Singapore, and Malaysia.\nA Brief Biography\nSrila Bhakti Sundar Govinda Maharaj made his Appearance in this world on December 17th, 1929, at Bamunpara, District Burdwan, only about six miles from Sripat Hapaniya where his beloved Gurudev made his Advent, also situated in the holy area of Gauda-Mandal.\nRevealing his pastimes to the conditioned souls of this worldly plane, at the tender age of only seventeen years Srila Govinda Maharaj manifest his coming to the Lotus Feet of his Gurudev, Sri Srila Sridhar Maharaj, in April 1947, on the Holy Appearance Day of Lord Nrsimhadev.\nOn the Amavasya [dark-moon day] of August 12th, 1988, when Srila Guru Maharaj silently took his form of Holy Samadhi at his beloved place of bhajan, Sri Chaitanya Saraswat Math, Nabadwip Dham, all the devotees felt that the exalted moon had disappeared from their vision; yet by his Divine Grace, Srila Guru Maharaj had already foreseen the devotees' need for uninterrupted light, for the smooth continuation of their devotional services, and therefore three years before he had conferred the holy order of Tridanda-Sannyasa upon Srila Govinda Maharaj, naming him as his illustrious successor, as the guiding light to perfectly ensure that no darkness could enter into his Sampradaya.\nHighly learned in Sanskrit and Bengali, Srila Govinda Maharaj has, as did his illustrious Gurudev, given us many divine prayers and songs most valuable for the cultivation of our spiritual life. His valuable natural talent, coupled with his fine delivery of Hari Katha [holy talks of the Supreme Lord and His Pastimes], and, on the practical side of devotional life, his untiring services to his Gurudev in nurturing and upholding Srila Guru Maharaj's Indian and Worldwide Mission from the very beginning to the present (it was none other than he who designed and supervised the building of Sri Chaitanya Saraswat Math) have ever fulfilled the desires of Sri Gurudev.\nThe elixir of nectar which has been carried around the world from Sri Chaitanya Saraswat Math is still flowing by the mercy Sri Guru and Gauranga represented in the person of Srila Govinda Maharaj, and through him it has become doubly sweet.\nSrila Guru Maharaj – acclaimed by one and all as the Maker of Gurus has presented to us his most precious gem in the personage of Srila Bhakti Sundar Govinda Dev-Goswami Maharaj.\nA Brief Autobiography: Bound by Affection\nHis Divine Grace Srila Bhakti Sundar Govinda Dev-Goswami Maharaj reflects on the events that surrounded his first days at Sri Chaitanya Saraswat Math at the lotus feet of His Divine Master, Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj. This talk, Bound by Affection, was given 50 years after the event, here at the Math."
+		},
+		{
+			"id":7,
+			"language":2,
+			"name":"Издательство SCSM",
+			"image":"scsm.jpg",
+			"desc":"Книги, журналы, статьи и другие публикации вайшнавских авторов в русском переводе."
+		},
+		{
+			"id":8,
+			"language":1,
+			"name":"SCSM books",
+			"image":"scsm.jpg",
+			"desc":"Books, magazines, articles and other publucations."
+		}
+	],
+	"books":
+	 [
+		{
+			"id":1,
+			"language":2,
+			"name":"Абсолютная гармония",
+			"authorID":1,
+			"image":"absolyutnaya_garmoniya1.jpg",
+			"desc":"Книга содержит выдержки из других книг и фрагменты бесед основателя-президента-ачарьи Шри Чайтанья Сарасват Матха Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа и составлена в честь юбилея Его Святейшества по милостивому указанию его преемника севаите-президента-ачарьи Шрилы Бхакти Сундара Говинды Дев-Госвами Махараджа. В этом бренном мире каждый из нас вынужден страдать. Истинное освобождение способны даровать лишь великие души, подлинно соприкасающиеся с вечной духовной реальностью. Раскрыть некоторые тайны этой реальности поможет книга «Абсолютная гармония».",
+			"files":
+			[
+				{
+					"type":0,
+					"name":"absolute_harmony/absolyutnaya_garmoniya_shrila_shridkhar_makharadzh.epub",
+					"size": 1
+				}
+			]
+		},
+		{
+			 "id":2,
+			 "language":2,
+			 "name":"Богатство слуги божественного мира",
+			 "authorID":1,
+			 "image":"bogatstvo_slugi_bozhestvennogo_mira1.jpg",
+			 "desc":"Сборник бесед Шрилы Говинды Махараджа, посвященных различным аспектам преданного служения. В книге особенно подчеркивается необходимость безраздельного самопредания Богу, искреннего служения Гуру и вайшнавам, проповеди сознания Кришны.",
+			 "files":
+			 [
+				  {
+					  "type":0,
+					  "name":"bogatstvo_slugi_bozhestvennogo_mira/bogatstvo_slugi_bozhestvennogo_mira.epub",
+					  "size": 2
+				  }
+			  ]
+		},
+		{
+			"id":3,
+			"language":2,
+			"name":"Божественное руководство",
+			"authorID":1,
+			"image":"bozhestvennoe_rukovodstvo1.jpg",
+			"desc":"Сборник бесед. Особенно выделяются лекции Шрилы Говинды Махараджа, прочитанные им во время паломничества в различные святые места (Навадвипа, Вриндаван и др). В этих лекциях раскрывается сокровенная эзотерическая природа дхамы (святого места), описываются деяния великих преданных, объясняется, как мы должны воспринимать святую дхаму. В книге так же содержатся ответы Шрилы Говинды Махараджа на вопросы, посвященные многим важным аспектам преданного служения и некоторым спорным страницам недавней вайшнавской истории.",
+			"files":
+			[
+				{
+					"type":0,
+					"name":"bozhestvennoe_rukovodstvo/bozhestvennoe_rukovodstvo.epub",
+					"size": 2
+				}
+			]
+		},
+		{
+			"id":4,
+			"language":2,
+			"name":"Божественный слуга",
+			"authorID":1,
+			"image":"bozhestvennyi_sluga1.jpg",
+			"desc":"Сборник бесед Шрилы Говинды Махараджа, посвященных различным аспектам преданного служения. В книге особенно подчеркивается необходимость безраздельного самопредания Богу, искреннего служения Гуру и вайшнавам, проповеди сознания Кришны.",
+			"files":
+			[
+				{
+					"type":0,
+					"name":"bozhestvennyi_sluga/bozhestvennyy_sluga.epub",
+					"size": 2
+				}
+			 ]
+		},
+		{
+			"id":5,
+			"language":2,
+			"name":"Бхагавад Гита Жемчужина мудрости Востока",
+			"authorID":1,
+			"image":"bkhagavad_gita_zhemchuzhina_mudrosti_vostoka.jpg",
+			"desc":"Бхагавад Гита - это азбука духовной жизни. В Бхагавад Гите изложена суть философии Вед и она является основополагающим Писанием духовности. Её можно также назвать «энциклопедией йоги». В ней раскрывается сущность учения о карме – законе сотворения судьбы и реинкарнации – принципах перевоплощения души. Согласно Гите, человек должен действовать бескорыстно, чтобы научиться жить ради служения высшей цели. Лев Толстой писал: «Я твердо верю в основной принцип Бхагавад Гиты, всегда стараюсь помнить его и руководствоваться им в своих действиях, а также говорить о нем тем, кто спрашивает мое мнение, и отражать его в своих сочинениях».",
+			"files":
+			[
+				{
+					"type":0,
+					"name":"bkhagavad_gita_zhemchuzhina_mudrosti_vostoka/bhagavad_gita_092.epub",
+					"size": 5
+				}
+			]
+		},
+		{
+			"id":6,
+			"language":2,
+			"name":"Бхакти Ракшака-вани",
+			"authorID":1,
+			"image":"bhakti_rakshaka_vani1.jpg",
+			"desc":"Основной принцип любви — самопожертвование, но ради кого? И кто принимает его? Каждый должен жертвовать центру, а не тянуть энергию оттуда. «Умереть, чтобы жить». С таким духом нам следует объединиться и трудиться ради истинной любви и красоты. И красота победит во всем мире. Любовь также одержит победу. Мы пожертвуем всем, чтобы знамя Божественной Любви развевалось над миром, ибо частица этой Божественной Любви способна принести подлинный мир и распространить его повсюду.",
+			"files":
+			[
+				{
+					"type":0,
+					"name":"bhakti_rakshaka_vani/bhakti_rakshaka_vani.epub",
+					"size": 1
+				}
+			]
+		},
+		{
+			"id":7,
+			"language":1,
+			"name":"Revealed Truth",
+			"authorID":2,
+			"image":"rt.jpg",
+			"desc":"The essence of revelation can be summarised in one word: om, which means, “Yes! What you are searching for does exist!”\n\nWho am I? Who is the Lord? What is our relationship? What is true fulfilment? The fundamental need of every soul is to find the answers to these questions.\n\nRevealed Truth explains how the ancient seers of the Vedic culture realised these truths and preserved their practices in writing. Śrīmad Bhāgavatam is the culmination of such scriptures. Its author, Śrīla Vyāsadev, has compared the Vedas to a wish-fulfilling tree, and Śrīmad Bhāgavatam to the tree’s fruit. It was spoken by Śrīla Śukadev Goswāmī, who is likened to a parrot that has pecked and released the fruit’s nectar.\n\nŚrīmad Bhāgavatam’s beauty has been shown to the world in unprecedented depth by Śrī Chaitanya Mahāprabhu. He taught that every soul is by nature a servant of the Lord, devotion to the Lord is the soul’s natural calling, and love for the Lord is the soul’s true fulfilment. By reading Revealed Truth one will develop a comprehensive understanding of Śrī Chaitanya Mahāprabhu’s teachings and be able to put the essence of revealed truth into practice.\n\nThe author, Swāmī B. S. Govinda, illuminates Śrī Chaitanya Mahāprabhu’s paramount ideal of divine love with heart-touching clarity and sweetness. Drawing upon the teachings of the Āchāryas in Śrī Chaitanya Mahāprabhu’s succession, as well as his own experience and realisation, Swāmī B. S. Govinda captivates readers with wisdom and joy that will ensure their spiritual journey is crowned with success.",
+			"files":
+			[
+				{
+					"type":0,
+					"name":"Revealed_Truth/Revealed_Truth.epub",
+					"size": 1
+				}
+			]
+		},
+		{
+			"id":8,
+			"language":1,
+			"name":"Sri Sri Prapanna-Jivanamritam",
+			"authorID":2,
+			"image":"pj.jpg",
+			"desc":"Unabridged English edition of Srila Sridhar Maharaj’s 1944 classic compilation highly acclaimed by all of his godbrothers. Described by Srila Govinda Maharaj in his publisher’s note as “the crown jewel of divine literatures”, SriSri Prapanna-jivanamritam presents a collection of essential verses in the scriptures delineating the path of surrender in all of its facets, with original aphorisms by Srila Sridhar Maharaj illuminating the inner meaning of each verse. In the words of Srila Govinda Maharaj: “Everything is covered in this book Prapanna-jivanamritam. If you read it minutely you must stand in the plane of dedication. … This is the first book of reading—and this is the last book of reading.”\n\nThis elegant boxed edition contains Sanskrit text and a special section of Srila Sridhar Maharaj’s original songs glorifying Srila Bhakti Siddhanta Saraswati Thakur, Srila Gaura Kishor Das Babaji Maharaj, Srila Bhakti Vinod Thakur, and Srila Rupa Goswami Prabhu.",
+			"files":
+			[
+				{
+					"type":0,
+					"name":"Sri_Sri_Prapanna-jivanamri/Sri_Sri_Prapanna-jivanamri.epub",
+					"size": 3
+				}
+			 ]
+		},
+		{
+			"id":9,
+			"language":1,
+			"name":"Home Comfort",
+			"authorID":2,
+			"image":"hc.jpg",
+			"desc":"Our most popular introductory book, Home Comfort has now been translated into several languages. In a clear way Srila Sridhar Maharaj here brings home the point that this human life is rare and valuable, and there is a purpose for it. This handy, easy to read introduction to genuine spiritual life is a selection from Srila Sridhar Maharaj’s discourses introducing the subject of revolutionary theistic life. “If anyone will carefully read this booklet with sincerity, he or she must be benefited and receive inspiration.”—Srila B. S. Govinda Dev-Goswami Maharaj",
+			"files":
+			[
+				{
+					"type":0,
+					"name":"Home_Comfort/Home_Comfort.epub",
+					"size": 1
+				}
+			 ]
+		},
+		{
+			"id":10,
+			"language":1,
+			"name":"Srimad Bhagavad Gita - Hidden Treasure of the Sweet Absolute (2ndEdition)",
+			"authorID":2,
+			"image":"gita.jpg",
+			"desc":"This revised second edition was prepared in close consultation with Srila Bhakti Sundar Govinda Dev-Goswami Maharaj, and includes Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj’s unparalleled devotional commentaries. Printed in Singapore in compact size, this highly acclaimed edition of Srimad Bhagavad-gita is a must for daily reading",
+			"files":
+			[
+				{
+					"type":0,
+					"name":"Srimad_Bhagavad-gita/Srimad_Bhagavad-gita.epub",
+					"size": 3
+				}
+			 ]
+		},
+		{
+			"id":11,
+			"language":2,
+			"name":"Онтология мира прекрасного",
+			"authorID":3,
+			"image":"app-rus-ontologiya-mira-prekrasnogo.jpg",
+			"desc":"Книга содержит лекции и статьи великих ачaрьев — Шрилы Бхактисиддхaнты Сарасвати Tхaкура, Шрилы Бхакти Ракшака Шридхара Махaраджа и Шрилы Бхакти Сундара Говинды Махaраджа. Все статьи объединяет одна тема — красота и гармония Мира Высшей Реальности, Мира Истины.\nКрасота предполагает многообразие, в котором есть место всему, как пишет Шрила Шридхар Махaрaдж — «и хорошему, и плохому — всему, кроме несовершенства, присущего лишь материальному миру».\nМир Абсолюта — это мир вечно новых, притягательных, бесконечно разнообразных деяний Господа. Эти деяния прихотливы, непредсказуемы, изменчивы и повинуются только Его неисповедимым желаниям. Красота может проявляться во всем, даже в том, что с материальной точки зрения кажется неприемлемым.\nДуховное нельзя мерить мирскими мерками. Испытав даже небольшой опыт соприкосновения с Высшей Реальностью, душа понимает, что все ее тревоги о несовершенстве и дисгармонии вызваны лишь ее неверными представлениями о мире.",
+			"files":[
+				{
+					"type":0,
+					"name":"ontologiya_mira_prekrasnogo.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":12,
+			"language":2,
+			"name":"Шрила Гуру Махарадж:его божественные деяния и наставления",
+			"authorID":7,
+			"image":"app-rus-shrily_guru_maxaradzh1-2.jpg",
+			"desc":"Книга выпущена Шри Чайтанья Сарасват Матхом в память о Шриле Шридхаре Махарадже. Она составлена и подготовлена к публикации Шрипадом Б.А. Сагаром Махараджем под руководством и при активном участии Шрилы Говинды Махараджа.Книга состоит из двух частей. Первая содержит краткую биографию Шрилы Шридхара Махараджа, составленную Шрипадом Б. А. Сагаром Махараджем, а так же уникальные и сладостные воспоминания самого Шрилы Шридхара Махараджа. Во второй части приводятся избранные высказывания Шрилы Шридхара Махараджа.",
+			"files":[
+				{
+					"type":0,
+					"name":"shrila_guru_makharadzh_shripad_b_a_saghar_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":13,
+			"language":2,
+			"name":"Величие Харинамы и оскорбления, которых следует избегать",
+			"authorID":3,
+			"image":"app-rus-velichie-harinam.jpg",
+			"desc":"В настоящее время множество людей по всему свету, в том числе и в России, привлекаются учением Шри Чайтаньи Махапрабху, как его представляет Шри Чайтанья Сарасват Матх. Принимая в Миссии Харинама-посвящение, некоторые не до конца понимают подлинный смысл этого события. Поэтому, для блага наших новых преданных, мы издали эту брошюру. Она состоит из двух самостоятельных работ. В первой, под названием «Смысл посвящения в Харинам», говорится о необходимости Гуру для нашей духовной жизни, природе и качествах истинного духовного учителя, настроении, в котором следует принимать посвящение, о самом посвящении в воспевание Харе Кришна маха-мантры и о практике бхакти-йоги. Кроме того, в ней приводятся минимальные необходимые сведения о нашей Шри-Гуру-варге. Вторая работа посвящена величию Шри Харинамы и рассмотрению оскорблений Святого Имени, которых необходимо избегать. Эта небольшая книжка дается преданным Миссии при Харинама-инициации. Именно из-за взаимосвязанности тем двух работ мы сочли уместным поместить их под одной обложкой. Мы искренне надеемся, что преданные получат пользу от изучения данного издания и благословят нас неустанной севой.",
+			"files":[
+				{
+					"type":0,
+					"name":"velichie_kharinamy.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":14,
+			"language":2,
+			"name":"Наставления учителя",
+			"authorID":3,
+			"image":"app-rus-nastavleniya_uchitelya1-2.jpg",
+			"desc":"Эта книга — подношение ко дню явления Шрилы Б.С. Говинды Махараджа — объединяет в себе статьи самого Гурудева, Шрилы Шридхара Махараджа и Шрилы Бхактисиддханты Сарасвати Тхакура. Она замечательна тем, что дает обзор всех основных идей вайшнавизма, как он представлен в учении Чайтаньи Махапрабху. Вера в гуру и вайшнавов, служение Святому Имени, милосердие к каждой душе, искренняя преданность, самопожертвование — вот суть духовного пути, которая постигается в общении с чистыми вайшнавами — учителями, принадлежащими к духовной преемственности Шри Рупы Госвами.",
+			"files":[
+				{
+					"type":0,
+					"name":"nastavleniya_uchitelya_shrila_govinda_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":15,
+			"language":2,
+			"name":"Наши учителя",
+			"authorID":7,
+			"image":"app-rus-nashi-uchitely-1.jpg",
+			"desc":"Эта книга начинается с описания причин явления в этот мир Шри Чайтаньи Махапрабху, жизни Его первых последователей – преемников Его учения. Сампрадая, духовная преемственность Махапрабху, называется рупануга-сампрадаей. Название указывает на то, что во главе сампрадаи стоит Рупа Госвами – величайший представитель духовной традиции гаудия-вайшнавизма. Сам Шри Чайтанья наделил Рупу Госвами верховными полномочиями, утвердив его главой сампрадаи и хранителем Своего учения. Последовательно, через краткое знакомство с важнейшими вехами в истории этой традиции, книга подводит читателя к описаниям подвижничества духовных учителей современности. Жизни великих учителей являют нам подлинные примеры преданности, великодушия и самопожертвования. Духовный учитель имеет две природы. С одной стороны, это человеческая природа, природа преданного Бога. С другой – в нем проявлено божественное начало, духовная сила Господа. Учитель живет только ради одной цели – открыть Истину жаждущим ее, – у него нет иных интересов. О жизни, глубоких взаимоотношениях и святом служении трех великих душ – Шрилы Б. Р. Шридхара Махараджа, Шрилы А. Ч. Бхактиведанты Свами Прабхупады и Шрилы Б. С. Говинды Махараджа – повествует вторая часть этой книги. В ней также раскрываются малоизвестные факты из жизни Шрилы Прабхупады до его отъезда из Индии в Америку. Книга будет интересна как тем, кто серьезно следует вайшнавизму, так и тем, кто постигает его, изучает религии мира или просто ищет подлинные примеры святой жизни во имя Высшего Бытия в нашу материалистическую эпоху.",
+			"files":[
+				{
+					"type":0,
+					"name":"nashi_uchitelya.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":16,
+			"language":2,
+			"name":"Гаудия-гитанджали",
+			"authorID":7,
+			"image":"app-gaudia-gitanjali.jpg",
+			"desc":"Сборник религиозных песен и молитв, общепринятых для поклонения в храмах традиции гаудия-вайшнавизма, как ее понимают последователи Шри Чайтанья Сарасват Матха.",
+			"files":[
+				{
+					"type":0,
+					"name":"gaudia-gitanjali.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":17,
+			"language":2,
+			"name":"Бхактья-лока",
+			"authorID":5,
+			"image":"app-rus-Bhakt_yaloka1-2.jpg",
+			"desc":"\"Бхактьялока\" означает красота и свет преданного служения. Эта замечательная книга Шрилы Бхактивиноды Тхакура разъясняет первые стихи \"Нектара наставлений\" Рупы Госвами и рассказывает о том, что способствует развитию бхакти и вручению себя Кришне.\nТем, кто любознателен, это практическое руководство по бхакти-йоге даст более глубокое понимание практики гаудия-вайшнавов. Все разъяснения автора основаны на заключениях Шримад-Бхагаватам и Чайтанья-чаритамриты.\nНаставления этой книги будут ценны как для аскетов, так и для семейных людей. Она станет замечательным пособием для каждого, кто желает добиться успеха на пути великих вайшнавов, пути бхакти-йоги, ведущем нас к Кришне.",
+			"files":[
+				{
+					"type":0,
+					"name":"bhaktya_loka.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":18,
+			"language":2,
+			"name":"Навадвипа-дхама махатмья",
+			"authorID":5,
+			"image":"app-rus-Navadvipa-Dhama-Mahatmya1-2.jpg",
+			"desc":"Этот труд Шрилы Бхактивинода Тхакура, выдающегося мыслителя, теолога, поэта и общественного деятеля Западной Бенгалии, представляет собой не философское, а художественное произведение. Оно описывает события, явленные Шриле Бхактивиноду как духовное откровение:рассказ о путешествии Шрилы Дживы Госвами и Шри Нитьянанды Прабху по местам, связанным с деяниями Шри Чайтаньи Махaпрабху. Во время этого путешествия Нитьянанда Прабху рассказывает о смысле священных мест, расположенных на девяти островах Дхамы, о событиях, связанных с ними, и о важных философских идеях, на которых основано гаудия-вайшнавское учение. Во второй части этой книги под названием «Шри Навадвипа бхава-таранга» раскрываются очень важные эзотерические истины, поэтому понимание ее будет весьма трудным для неподготовленного читателя. Рекомендовать ее можно лишь тем, кто долго и глубоко изучает гаудия-вайшнавизм.\nТрудно переоценить историческую роль этой книги для становления и развития гаудия-вайшнавского учения. Изданная в Индии во времена серьезного упадка вайшнавского движения в Бенгалии, она возродила былую славу Маяпура и его окрестностей и пробудила всеобщий интерес к истории этих мест, связанных с деяниями Шри Чайтаньи Махапрабху и Его спутников. Каждый вайшнав непременно должен ознакомиться с ней.",
+			"files":[
+				{
+					"type":0,
+					"name":"navadvipa_dhama_mahatmya.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":19,
+			"language":2,
+			"name":"Шри Чайтанья Махапрабху:Его жизнь и наставления",
+			"authorID":5,
+			"image":"app-rus-zhizn-i-nastavleniya-shri_chaitani_mahaprabhu1-2.jpg",
+			"desc":"К XV-му веку религия (не только в Индии, но и в Европе) стала такой же разобщенной, как и общество – считалось, что чем выше социальный статус человека, тем больше у него прав на доступ к божественной истине и тем больше у него шансов достичь царства Божия. Даже представители высшей касты в индийском обществе – брахманы – разделились на группы и по-разному толковали священные тексты.\nШри Чайтанья Махапрабху – великий вайшнавский святой, аватара (воплощение) Кришны, пришел в этот мир в 1486 году. Цель всей его жизни – установить новый стандарт поклонения Богу. Каста, уровень достатка, прошлые поступки – ничего не имеет значения. Милость Бога проливается на каждого, и каждый может развить в себе прему – чистую искреннюю любовь к Богу.\nМахапрабху объединил десятки тысяч людей по всей Индии в движении санкиртаны – совместного воспевания имен Бога. Последователи распространили его идеи по всему миру.\nЭта книга кратко представляет биографию Шри Чайтаньи Махапрабху и основные идеи его учения.\nТем, кого заинтересуют философия и необычные деяния великого вайшнавского святого, рекомендуем также к прочтению «Шри Чайтанья Бхагавату».",
+			"files":[
+				{
+					"type":0,
+					"name":"zhizn_i_nastavleniya_shri_chaytani_makhaprabkhu.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":20,
+			"language":2,
+			"name":"Према-дхама-дева-стотрам",
+			"authorID":1,
+			"image":"app-rus-Prema_Dhama1-2.jpg",
+			"desc":"Великая и удивительная поэма Шрилы Шридхара Махараджа прославляет Чайтанью Махапрабху и Его трансцендентные деяния. Когда Шрила Шридхар Махарадж представил это свое произведение перед обществом вайшнавов, один из его духовных братьев сказал, что в мире существует уже множество вайшнавских произведений. Бывает, что произведение хорошо выражает онтологические истины, но ему не хватает поэтической формы. Бывает также, что произведение выражено сладостными строфами, но ему не достает философской глубины. Но в этой поэме мы видим идеальное сочинение поэтической формы и философской значительности. Несомненно, что это одно из самых совершенных поэтических произведений, которые когда-либо были известны в нашей сампрадае. В своей поэме Шрила Шридхар Махарадж подытожил деятельность Махапрабху в сравнительно небольшом произведении, состоящем из семидесяти стихов. Если мы желаем понять, что является самым важным в жизни Махапрабху, мы можем просто петь «Према-Дхама-Дева-стотрам» и читать ее перевод. И поскольку это было написано Шрилой Шридхаром Махараджем, вайшнавом высокого уровня, трансцендентным к этому миру, то, соответственно, дарованная им поэзия — это звуковые вибрации надмирных областей бытия.",
+			"files":[
+				{
+					"type":0,
+					"name":"shri_shri_prema_dkhama_deva_stotra_shrila_shridkhar_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":21,
+			"language":2,
+			"name":"Шри Гуру шикша",
+			"authorID":7,
+			"image":"app-rus-shri-guru-shiksha.jpg",
+			"desc":"Шри Гуру Шикша\nБожественные изречения\nОм Вишнупада Парамахамсы\nПавриджакачарья-варьи Аштоттара- шата-шри\nШримад Бхакти Ракшака Шридхара Дев-Госвами",
+			"files":[
+				{
+					"type":0,
+					"name":"guru-siksha.epub",
+					"size":1
+				}
+			]
+		},
+		{
+			"id":22,
+			"language":2,
+			"name":"Золотая лестница",
+			"authorID":1,
+			"image":"app-rus-zolotaya-lestnica.jpg",
+			"desc":"Практические шаги на пути Преданного Служения, приносящего удовлетворение в жизни. Затрагиваемые в этой книге вопросы были специально подобраны так, чтобы можно было осветить путь прогресса ищущих и практикующих.\nСоставлено из неофициальных бесед, проведенных в период между 1981-1985 годами Шрилой Бхакти Ракшаком Шридхаром Девом-Госвами Махараджем, основателем-ачарьем Шри Чайтанья Сарасват Матха, Навадвипа, Индия. Издано под наблюдением Президента-ачарьи Шрилы Бхакти Сундара Говинды Дев-Госвами Махараджа.",
+			"files":[
+				{
+					"type":0,
+					"name":"golden-staircase.epub",
+					"size":1
+				}
+			]
+		},
+		{
+			"id":23,
+			"language":2,
+			"name":"Субъективная эволюция сознания",
+			"authorID":1,
+			"image":"app-rus-Subyektivnaua_evoluciya1-2.jpg",
+			"desc":"Без преувеличения можно сказать, что эта книга радикально изменила жизнь многих и многих читателей. Следуя традициям индийской философии, она излагает парадигму многослойной реальности. Наш физический мир есть только низший, самый грубый слой существования. Выше и гораздо разнообразнее его — тонкий мир, а еще выше, еще богаче и разнообразнее — мир трансцендентный, духовный, вечный. И кто ощутил высший мир, тот испытал такое блаженство, что у него пропадает привязанность к его бледному, физическому отсвету. И не только йоги и отшельники, а вся древняя индийская культура была пропитана этим чувством космоса, беспредельного. До нашего времени это чувство сохранили только отдельные древние традиции, избранные учителя и мыслители. К ним с полным правом мы можем отнести Шрилу Шридхара Махараджа. Упоминание эволюции в названии этой работы далеко не случайно. Однако эволюционное учение получает здесь гораздо более широкую трактовку как принцип самого бытия, а не только как развитие неких форм материальных объектов. Этот великий индийский мыслитель XX века утверждает, что подлинная эволюция — это трансформация сознания, которое по природе своей субъективно. Рассматривая и сравнивая различные философские учения об эволюции, Шридхар Махарадж показывает нам, что сознание — первостепенная реальность, что субъективный мир реальнее объективного. Он ведет читателя по различным этапам субъективной эволюции сознания, опираясь не только на обширные познания, но и на глубочайший духовный опыт.",
+			"files":[
+				{
+					"type":0,
+					"name":"subektivnaya_evolyutsiya_soznaniya_-shrila_shridkhar_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":24,
+			"language":2,
+			"name":"Шри Гуру и его милость",
+			"authorID":1,
+			"image":"app-rus-sri_guru-i-ego-milost-1-2.jpg",
+			"desc":"Каждому искренне ищущему искателю знания, она помогает раскрыть истинные отношения ученика и духовного учителя. Каков истинный духовный учитель? Как его найти? Каким образом проявляется природа гуру? Книга дает правильное представление о гуру и разоблачает многочисленные ложные идеи.",
+			"files":[
+				{
+					"type":0,
+					"name":"shri_guru_i_ego_milost_shrila_shridkhar_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":25,
+			"language":2,
+			"name":"Проповеди хранителя преданности, том 1",
+			"authorID":1,
+			"image":"app-rus-PropovedHP_1_1.jpg",
+			"desc":"Эта книга безусловно, для тех, кто уже стал на путь вайшнавизма и серьезно следует ему. Здесь открываются многие удивительные истины и рассматриваются сложные вопросы вайшнавской философии. Эти труды собраны из записей бесед со Шридхаром Махараджем и изданы по благословению самого Шрилы Говинды Махараджа, его ближайшего ученика, выдающегося наставника, ачарьи Шри Чайтанья Сарасват Матха. В предисловии Шрила Говинда Махарадж писал:«У нас сохранились записи святых бесед Шридхара Махараджа с преданными учениками, стекавшимися к нему с Востока и Запада… Мы бережно собрали несколько капель тех сокровенных истин, которые он открывал своим слушателям, постаравшись сохранить их в первозданной, неповторимой красоте…» Настоящие книги – бесценное сокровище для тех, кто живет идеями вайшнавизма, и прекрасная поддержка для тех, кто размышляет над вопросами своей веры. Каждый, внимающий этим проповедям с верой и искренним стремлением к Истине, обретет неугасимую надежду.",
+			"files":[
+				{
+					"type":0,
+					"name":"propovedi_hranitelya_predannosti_tom_1_shrila_shridkhar_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":26,
+			"language":2,
+			"name":"Проповеди хранителя преданности, том 2",
+			"authorID":1,
+			"image":"app-rus-PropovedHP_2_1-2.jpg",
+			"desc":"Эта книга безусловно, для тех, кто уже стал на путь вайшнавизма и серьезно следует ему. Здесь открываются многие удивительные истины и рассматриваются сложные вопросы вайшнавской философии. Эти труды собраны из записей бесед со Шридхаром Махараджем и изданы по благословению самого Шрилы Говинды Махараджа, его ближайшего ученика, выдающегося наставника, ачарьи Шри Чайтанья Сарасват Матха. В предисловии Шрила Говинда Махарадж писал:«У нас сохранились записи святых бесед Шридхара Махараджа с преданными учениками, стекавшимися к нему с Востока и Запада… Мы бережно собрали несколько капель тех сокровенных истин, которые он открывал своим слушателям, постаравшись сохранить их в первозданной, неповторимой красоте…» Настоящие книги – бесценное сокровище для тех, кто живет идеями вайшнавизма, и прекрасная поддержка для тех, кто размышляет над вопросами своей веры. Каждый, внимающий этим проповедям с верой и искренним стремлением к Истине, обретет неугасимую надежду.",
+			"files":[
+				{
+					"type":0,
+					"name":"propovedi_hranitelya_predannosti_tom_2_shrila_shridkhar_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":27,
+			"language":2,
+			"name":"Проповеди хранителя преданности, том 3",
+			"authorID":1,
+			"image":"app-rus-PropovedHP_3_1-2.jpg",
+			"desc":"Эта книга безусловно, для тех, кто уже стал на путь вайшнавизма и серьезно следует ему. Здесь открываются многие удивительные истины и рассматриваются сложные вопросы вайшнавской философии. Эти труды собраны из записей бесед со Шридхаром Махараджем и изданы по благословению самого Шрилы Говинды Махараджа, его ближайшего ученика, выдающегося наставника, ачарьи Шри Чайтанья Сарасват Матха. В предисловии Шрила Говинда Махарадж писал:«У нас сохранились записи святых бесед Шридхара Махараджа с преданными учениками, стекавшимися к нему с Востока и Запада… Мы бережно собрали несколько капель тех сокровенных истин, которые он открывал своим слушателям, постаравшись сохранить их в первозданной, неповторимой красоте…» Настоящие книги – бесценное сокровище для тех, кто живет идеями вайшнавизма, и прекрасная поддержка для тех, кто размышляет над вопросами своей веры. Каждый, внимающий этим проповедям с верой и искренним стремлением к Истине, обретет неугасимую надежду.",
+			"files":[
+				{
+					"type":0,
+					"name":"propovedi_hranitelya_predannosti_tom_3_shrila_shridkhar_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":28,
+			"language":2,
+			"name":"Проповеди хранителя преданности, том 4",
+			"authorID":1,
+			"image":"app-rus-PropovedHP_4_1-2.jpg",
+			"desc":"Эта книга безусловно, для тех, кто уже стал на путь вайшнавизма и серьезно следует ему. Здесь открываются многие удивительные истины и рассматриваются сложные вопросы вайшнавской философии. Эти труды собраны из записей бесед со Шридхаром Махараджем и изданы по благословению самого Шрилы Говинды Махараджа, его ближайшего ученика, выдающегося наставника, ачарьи Шри Чайтанья Сарасват Матха. В предисловии Шрила Говинда Махарадж писал:«У нас сохранились записи святых бесед Шридхара Махараджа с преданными учениками, стекавшимися к нему с Востока и Запада… Мы бережно собрали несколько капель тех сокровенных истин, которые он открывал своим слушателям, постаравшись сохранить их в первозданной, неповторимой красоте…» Настоящие книги – бесценное сокровище для тех, кто живет идеями вайшнавизма, и прекрасная поддержка для тех, кто размышляет над вопросами своей веры. Каждый, внимающий этим проповедям с верой и искренним стремлением к Истине, обретет неугасимую надежду.",
+			"files":[
+				{
+					"type":0,
+					"name":"propovedi_hranitelya_predannosti_tom_4_shrila_shridkhar_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":29,
+			"language":2,
+			"name":"Любовный поиск потерянного слуги",
+			"authorID":1,
+			"image":"app-rus-lyubovniy-poisk-poteryannogo-slugi.jpg",
+			"desc":"Эта книга даст великую надежду тем, кто всем сердцем стремится раскрыть любовь к Богу, нащупывает свою дорогу к Нему. Господь испытывает агонию разлуки со Своими преданными — так же как они жадно стремятся к Нему, Он стремится установить индивидуальные взаимоотношения с каждым, основанные на любви и нежности. Кришна — полное целое, Он полон во всех отношениях. Однако, независимо от того, какими незначительными мы можем быть в чужих глазах или своем собственном представлении, Господь ищет нас. Он делает это изнутри — каждый из нас, с верой раскрывший свое сердце, почувствует это. Кроме того, Безграничное являет Себя ограниченному через руководство божественного представителя, Шри Гуру, а также через наставления священных писаний. «Любовный поиск потерянного слуги» — замечательное руководство на сложном пути каждого преданного, предназначенное, прежде всего, для тех, кто хорошо знаком с идеалами гаудия-вайшнавизма. В этой книге Шрила Шридхар Махарадж раскрывает идеал чистой, свободной от эмпирического знания и бесцельного философствования преданности в любви. Он утверждает, что любовь к Богу и служение Ему с преданностью — наша истинная цель. Любовь проявляется в наших сердцах естественно и спонтанно — все зависит от милости Кришны и нашего искреннего стремления к Нему.",
+			"files":[
+				{
+					"type":0,
+					"name":"lovesearch.epub",
+					"size":0.2
+				}
+			]
+		},
+		{
+			"id":30,
+			"language":2,
+			"name":"Жизнь, посвященная Гуру (Вьяса-пуджа года)",
+			"authorID":3,
+			"image":"app-rus-zhizn_posvyashennaya_guru1-2.jpg",
+			"desc":"«Существует очень много форм и видов религий, но подлинная религия живет в вашем сердце. Она – ваше желание, ваше устремление – составляет богатство души и называется любовью к Всевышнему Господу, божественной любовью, премой.\nОна является достоянием каждого.\nГосподь ищет Своего дорогого заблудшего слугу, а нас никогда не покидает желание найти Его». Сборник лекций, прочитанных Шрилой Говиндой Махараджем во время его проповеднических поездок по миру. Книга затрагивает такие темы, как преданность, неблагоприятное общение, совершенство гуру, ложное эго, выбор души, нисхождение духовного знания и многое другое.\nВ конце ее приводятся воспоминания Шрилы Говинды Махараджа о своих первых днях в Матхе, изложенные со свойственными ему теплотой и юмором.",
+			"files":[
+				{
+					"type":0,
+					"name":"zhizn_posvyashchennaya_guru.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":31,
+			"language":2,
+			"name":"Бхагават-даршан",
+			"authorID":3,
+			"image":"app-rus-bhagavad_darsh1-2.jpg",
+			"desc":"В этой книге Шрила Говинда Махардаж рассказывает о том, как Нарада Риши отчитал своего ученика, Ведавьясу, после того, как тот предпринял великий труд по составлению ведических писаний. \"Ты дал ложное понимание. Ты не дал достаточного знания и вдохновения для освобожденных душ, поэтому тебе нужно обязательно сделать это\". Так на свет явился \"Шримад Бхагаватам\", \"безупречная Пурана\", в которой содержится суть всех явленных писаний.",
+			"files":[
+				{
+					"type":0,
+					"name":"bhagavat_darshan.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":32,
+			"language":2,
+			"name":"Любовь и мудрость",
+			"authorID":3,
+			"image":"app-rus-lyubov_i_mudrost1-2.jpg",
+			"desc":"Сборник лекций, прочитанных Шрилой Говиндой Махараджем во время его Первого Всемирного Тура в 1992 году. Лекции раскрывают основы учения сознания Кришны, как его понимают в Шри Чайтанья Сарасват Матхе, и дают яркое представление о личности и миссии Шрилы Говинды Махараджа. В качестве приложения содержится отрывок из беседы Шрилы Шридхара Махараджа, в которой он, на многочисленных примерах, описывает необычайные личные качества Шрилы Говинды Махараджа.",
+			"files":[
+				{
+					"type":0,
+					"name":"lyubov_i_mudrost.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":33,
+			"language":2,
+			"name":"Размышления к золотому юбилею",
+			"authorID":3,
+			"image":"app-rus-razmyshleniya-zolotoy_jubiley1-2.jpg",
+			"desc":"Книга посвещается 50-летнему юбилею Миссии. Основная часть состоит из воспоминаний Шрилы Говинды Махараджа о своей жизни в Матхе и о Шриле Шридхаре Махарадже. В них Шрила Говинда Махарадж приводит много малоизвестных фактов из истории гаудия-вайшнавского движения второй половины ХХ-го века, а так же, на примере различных случаев из жизни, дает образцы правильного поведения преданных.",
+			"files":[
+				{
+					"type":0,
+					"name":"razmyshleniya_k_zolotomu_yubiley_shrila_govinda_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":34,
+			"language":2,
+			"name":"Святое занятие",
+			"authorID":3,
+			"image":"app-rus-svyatoe_zanyatie1-2.jpg",
+			"desc":"Темы книги включают в себя сосредоточенность на Центре Бытия, подлинное понимание Гуру, духовную градацию, обоснование превосходства вайшнавского учения над майявадой, а также превосходство милосердия над справедливостью. Кроме того, здесь содержатся фрагменты из «Джайва-дхармы» и уникальный комментарий Его Божественной Милости к «Шри Рупа Манджари Пада» - величайшей песни, сложенной Шрилой Нароттамом Дасом Тхакуром - священному гимну всех гаудия-вайшнавов. Настоятельно рекомендуется к прочтению.",
+			"files":[
+				{
+					"type":0,
+					"name":"svyatoe_zanyatie_shrila_govinda_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":35,
+			"language":2,
+			"name":"Уроки религии",
+			"authorID":3,
+			"image":"app-rus-uroki_religii1-2.jpg",
+			"desc":"Беседа Шрилы Говинды Махараджа, раскрывающая различные стороны вайшнавского учения и практики.",
+			"files":[
+				{
+					"type":0,
+					"name":"uroki_religii_shrila_govinda_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":36,
+			"language":2,
+			"name":"Голос Шри Чайтаньядева",
+			"authorID":3,
+			"image":"app-rus-golos_sri_caitanyadeva1-2.jpg",
+			"desc":"Лекция, прочитанная в феврале 2000 г. на день явления Шрилы Бхактисиддханты Сарасвати Тхакура.\nИллюзорное окружение постоянно и разнообразными способами нападает на дживы и причиняет им беспокойства. Но Прабхупада Шрила Бхакти Сиддханта Сарасвати начал процесс очищения, подобный гундича-марджджане, очищению храма Господнего. Это было его первым делом в этом мире.\nНаше сердце должно уподобиться Вриндавану. Не нужно превращать сердце в непроходимые джунгли. В джунглях многое приносит беспокойства, но во Вриндаване ничего подобного нет. Там царит совершенная чистота. Поэтому нам следует поклоняться Всевышнему Господу чисто. Погружаться в Майу ради услаждения своих чувств, одновременно призывая в свое сердце Бога - вопиющее лицемерие. Шрила Бхактивенод Тхакур и Шрила Бхакти Сиддханта Сарасвати Тхакур с величсайшей энергией делали всё, чтобы уничтожить эту ложь...\nИх первейшим делом была проповедь Имени. В Бенгалии Имя воспевало множество людей, но часто это бывало в группах курильщиков гашиша. Иные, бывало, беспрерывно воспевали в течение многих часов. В Бенгалии не было недостатка в такого вида харинаме, но там отсутствовала подлинная чистота. Вследствие этого, Сампрадайа, или Религиозная Преемственность Махапрабху, была полностью фальсифицирована. Люди с ненавистью произносили слово “Вайшнав”. Группы, известные как Неда, Дарабеша, Сани, Аула, Баула, Картабхаджа и т.д. — все они так сильно исказили возвышенное и сокровенное Учение Махапрабху о Божественном Совершенстве, что народ более не уважал Махапрабху. Если кто-то говорил:«Вайшнав у дверей», то глава семьи обычно отвечал:«Ну, дайте ему немного риса и гоните прочь». Такие представления о Вайшнавах бытовали у обычных людей.",
+			"files":[
+				{
+					"type":0,
+					"name":"golos_shri_chaytanyadeva.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":37,
+			"language":2,
+			"name":"Религия сердца",
+			"authorID":3,
+			"image":"app-rus-Religion_of_heart1-2.jpg",
+			"desc":"Эта книга составлена из лекций, прочитанных в разные годы, но связанных единой темой - описанием особых привлекательных качеств Господа Кришны. Именно эти качества притягивают к нему все живые существа во вселенной.\nПоклонение Шри Кришне – это религия, но религия, в основе которой лежат красота и милосердие, не страх, не желание избавиться от страданий или попасть в рай. Вайшнава-дхарма, или джайва-дхарма – вечные отношения души с Кришной. Именно такую вечную любовь, вечную религию сердца пробуждает чтение этой книги, в которой собраны удивительные откровения Шрилы Говинды Махараджа, чья жизнь является воплощением бесконечной духовной любви.",
+			"files":[
+				{
+					"type":0,
+					"name":"religiya_serdtsa_shrila_govinda_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":38,
+			"language":2,
+			"name":"Поток вдохновения",
+			"authorID":3,
+			"image":"app-rus-potok_vdohnoveniya1-2.jpg",
+			"desc":"ток, о котором идет речь в заглавии, - слова Шрилы Бхакти Сундара Говинды Дев-Госвами Махараджа. Он черпает этот поток вдохновения в безграничном океане абсолютной чистоты, гармонии и любви.\nСлова учителя проникают в самое сердце и наполняют его вдохновением, надеждой и верой, побуждая к служению миру преданности и возвращаясь затем новым потоком вдохновения.\nШрила Говинда Махарадж обрел благословения всех возвышенных вайшнавов и олицетворяет учение Рупануга-сампрадаи. Посвятив Шрилу Говинду Махараджа в отреченный уклад жизни, передав ему пост ачарьи и все полномочия Рупануга-сампрадаи, Шрила Шридхар Махарадж дал ему особое имя:Бхакти Сундар Говинда – «Тот, кто олицетворяет красоту преданности Говинде». Именно это имя наиболее точно отражает суть служения этого великого гуру, маха-бхагавата вайшнава, и его наставлений, которые являют душам этого мира красоту преданности Говинде.",
+			"files":[
+				{
+					"type":0,
+					"name":"potok_vdokhnoveniya_shrila_govinda_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":39,
+			"language":2,
+			"name":"Шри Шри Нитьянанда махимамритам",
+			"authorID":3,
+			"image":"app-rus-shri_shri_nityananda_mahimamritu1-2.jpg",
+			"desc":"Чудесный нектар славы Шри Нитьянанды Прабху. Это писание призвано открыть миру величие и подлинное онтологическое положение Господа Нитьянанды. Без Его милости никто не способен постичь Шри Чайтанью Махапрабху, не говоря уже о Шри Радхе и Шри Кришне.\n«Нитьянанда-махимамритам» – глубочайшее произведение, уникальное для всей традиции сарасвата-гаудия-вайшнавов, явленной этому миру Шрилой Бхактисиддхантой Сарасвати Тхакуром.",
+			"files":[
+				{
+					"type":0,
+					"name":"shri_shri_nityananda_makhimamrita_shrila_govinda_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":40,
+			"language":2,
+			"name":"Величие Вьяса-пуджи",
+			"authorID":7,
+			"image":"app-rus-velichie_vyasa_puje1-2.jpg",
+			"desc":"Молитвы, прославления и подношения на святой день Божественного Явления Ачарьи Шри Чайтанья Сарасват Матха Шрилы Бхакти Сундар Говинда Дев-Госвами Махараджа",
+			"files":[
+				{
+					"type":0,
+					"name":"velichie_vyasa_pudzhi.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":41,
+			"language":2,
+			"name":"Песни исполняемые в месяц картика",
+			"authorID":7,
+			"image":"app-rus-pesni-mesyac_kartika1-2.jpg",
+			"desc":"Месяц Картика — особое время для всех последователей и друзей традиции гаудия-вайшнавизма. В это время вайшнавы с сердцем, исполненным преданности, еще больше начинают оказывать служение Шри Шри Радха-Кришне. Киртикой зовут мать Шримати Радхарани. Поэтому месяц назван в честь Радхарани — Картика. Картика, «дочь Киртики», — имя Радхарани.\nТак устроено, что вайшнавы, живущие в святых местах, садху, в это время мало принимают пищи, сводят к минимуму удобства для себя, а все свое время посвящают духовной практике, служению. Этот период длится целый месяц. По всей Индии все вайшнавы почитают его. В это время в храмах поются очень красивые бхаджаны, песни. Они поются дважды в день (утром и вечером).",
+			"files":[
+				{
+					"type":0,
+					"name":"pesni_ispolnyaemye_v_mesyats_kartika.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":42,
+			"language":2,
+			"name":"Наука чистой преданности",
+			"authorID":1,
+			"image":"app-nauka-chistoi-predannosti.jpg",
+			"desc":"",
+			"files":[
+				{
+					"type":0,
+					"name":"nauka_chistoy_predannosti_shrila_shridkhar_makharadzh.epub",
+					"size":2.0
+				}
+			]
+		},
+		{
+			"id":43,
+			"language":1,
+			"name":"Loving Search For The Lost Servant",
+			"authorID":2,
+			"image":"app-loving_search_for_the_lost_servant.jpg",
+			"desc":"The Lord's Urgent Campaign\nHere we find that although the Lord is full in all respects, still He feels pangs of separation for every one of us, and He appears again and again to reclaim us -- to take us back home, back to Godhead. As we are engaged in the Search for Sri Krishna, He is also engaged in a Loving Search for His Lost Servants.",
+			"files":[
+				{
+					"type":0,
+					"name":"Loving_Search_For_The_Lost_Servant_last_version.epub",
+					"size":1
+				}
+			]
+		},
+		{
+			"id":44,
+			"language":1,
+			"name":"Sermons of the Guardian of Devotion",
+			"authorID":2,
+			"image":"app-sermons-of-the-guardian-of-devotion.jpg",
+			"desc":"",
+			"files":[
+				{
+					"type":0,
+					"name":"Sermons_of_the_Guardian_of_Devotion_(VolumeI).epub",
+					"size":1
+				}
+			]
+		},
+		{
+			"id":45,
+			"language":1,
+			"name":"Benedictine Tree",
+			"authorID":6,
+			"image":"app-TheBenedictineTreeOfD-.jpg",
+			"desc":"An invaluable record of some of the lectures Srila Govinda Maharaj gave on his first preaching tour outside of India, wherein His Divine Grace speaks in a heart-to-heart manner to the assembled devotees of California, Hawaii, and Mauritius. Srila Govinda Maharaj speaks mainly on introductory topics such as the nature of the soul and the Lord, the nature of the spiritual world, the superiority of the devotional path, and so on, and also shares many personal feelings about the Mission, his great joy at meeting the international community, his reluctance at being newly situated in the post of acharya, as well as some personal history of his intimate relationship with Srila Sridhar Maharaj and Srila Swami Maharaj Prabhupad. In addition there are explanatory lectures given by senior Vaishnavs, and three appendices discussing the mahamantra, the ten offences to the Holy Name, and the glories of Srila Bhakti Sundar Govinda Dev-Goswami Maharaj.",
+			"files":[
+				{
+					"type":0,
+					"name":"Benedictine_Tree.epub",
+					"size":1
+				}
+			]
+		},
+		{
+			"id":46,
+			"language":1,
+			"name":"Divine Aspiration",
+			"authorID":6,
+			"image":"app-divineaspiration.jpg",
+			"desc":"A compilation of Srila Sridhar Maharaj’s teachings in the style of the Sermons series wherein His Divine Grace discusses such important topics as self-surrender, the supreme position of the Lord’s devotees, the gradation of spiritual thought, as well as the practical application of many spiritual concepts, all with characteristic humility:“… if I am able to sincerely know such things, to have a touch of such a high and divine knowledge, if I am able to receive these things from my Guru Maharaj, then I also consider myself very fortunate.”",
+			"files":[
+				{
+					"type":0,
+					"name":"Divine_Aspiration.epub",
+					"size":1
+				}
+			]
+		},
+		{
+			"id":47,
+			"language":1,
+			"name":"Golden Reflections",
+			"authorID":6,
+			"image":"app-golden-reflection.jpg",
+			"desc":"Prepared especially in honour of the Golden Jubilee (50th anniversary) of the founding of Sri Chaitanya Saraswat Math, herein Srila Bhakti Sundar Govinda Dev-Goswami Maharaj responds to interview questions regarding the early days of the math and its founder, Srila Bhakti Raksak Sridhar Dev-Goswami Maharaj. Includes a chapter on the importance of Srila Sridhar Maharaj’s book Sri Sri Prapanna Jivanamritam, a chapter with an explanation of the math logo, and an explanation as to why Sri Chaitanya Saraswat Math is considered such a special place.",
+			"files":[
+				{
+					"type":0,
+					"name":"GOLDEN_REFLECTIONS.epub",
+					"size":1
+				}
+			]
+		},
+		{
+			"id":48,
+			"language":1,
+			"name":"Sermons of the Guardian of Devotion (Volume IV)",
+			"authorID":2,
+			"image":"app-sermons-of-the-guardian-of-devotion.jpg",
+			"desc":"",
+			"files":[
+				{
+					"type":0,
+					"name":"Sermons_of_the_Guardian_of_Devotion_(VolumeIV).epub",
+					"size":1
+				}
+			]
+			
+		},
+		{
+			"id":49,
+			"language":1,
+			"name":"Heart and Halo",
+			"authorID":2,
+			"image":"app-heart-and-halo.jpg",
+			"desc":"",
+			"files":[
+				{
+					"type":0,
+					"name":"Heart_and_Halo.epub",
+					"size":1
+				}
+			]
+			
+		},
+		{
+			"id":50,
+			"language":1,
+			"name":"Exclusive Guardianship",
+			"authorID":2,
+			"image":"Exclusive-Guardianship.png",
+			"desc":"",
+			"files":[
+				{
+					"type":0,
+					"name":"Exclusive_Guardianship.epub",
+					"size":1
+				}
+					]
+			
+		},
+		{
+			"id":51,
+			"language":1,
+			"name":"Gaudiya Gitanjali",
+			"authorID":8,
+			"image":"gaudiya-gitanjali-eng.jpg",
+			"desc":"",
+			"files":[
+				{
+					"type":0,
+					"name":"GaudiyaGitanjali-eng.epub",
+					"size":1
+				}
+
+			]
+		},
+		{
+			"id":52,
+			"language":1,
+			"name":"Life and Precepts of Sri Caitanya Mahaprabhu",
+			"authorID":9,
+			"image":"Life-and-Precepts-of-Sri-Caitanya-Mahaprabhu.png",
+			"desc":"Chaitanya Mahaprabhu was born in Mayarpur in the town of Nadia, just after sunset on the evening of the 23rd Falgun, 1407 Advent of Sakabda answering to the 18th Februrary, 1486 of the Christian era. The moon was eclipsed at the time of His birth and people of Nadia were then engaged, as usual on such occasions, in bathing in the Bhagirathi with loud cheers of Haribol. His father Jagannath Misra was a poor Brahmin of the Vedic order, and His mother Sachi Devi was a model good woman, both descended from Brahmin stocks originally residing in Sylhet. Mahaprabhu was a beautiful Child and the ladies of the town came to see Him with presents. His mother's father. Pandit Nilambar Chakravarti, a renowned astrologer, foretold that the Child -would be a great Personage in time ; and he therefore, gave Him the name Visvambhar. The ladies of the neighborhood styled Him Gaur Hari on account of His golden complexion, and His mother called Him Nimai on account of the Nim tree n ear which He was born. Beautiful as the lad was every one heartily loved to see Him everyday. As He grew up. He became a whimsical and frolicsome Lad. After His fifth year, He was admitted into a Pathsala where He picked up Bengali in a very short time.",
+			"files":[
+				{
+					"type":0,
+					"name":"Life-and-Precepts-of-Sri-Caitanya-Mahaprabhu.epub",
+					"size":1
+				}
+
+			]
+		},
+		{
+			"id":53,
+			"language":1,
+			"name":"The Magnanimous Nature of Nityananda Prabhu",
+			"authorID":2,
+			"image":"THE_MAGNANIMOUS_NATURE_OF_NITYANANDA_PRABHU.png",
+			"desc":"Sri Nityananda Prabhu is supposed to be the incarnation of Baladeva in Vrajamandala. Narottama dasa Thakura says Balaram haila Nitai. Sanatana Goswami also mentions Nityananda Prabhu as the incarnation of Baladeva in Vrindavana, but some persons within the Gaudiya Sampradaya preach that Nityananda Prabhu is the incarnation of Radharani. So, a vehement protest is given from the side of the Gaudiya Math and we cannot recognize them as the true followers of Gaudiya Vaisnava faith and Mahaprabhu. Nityananda Prabhu took His birth in the district of Virbhum on the Western side of Katwa, north west of Ekachakra, where the Pandavas in disguise lived for sometime. Nearby is also shown a tree where the Bakaraksasa was killed by Bhimasena. In Ekachakra near Garbhavasa and many other places, we can trace the pastimes of Nityananda Prabhu. Nityananda Prabhu's son established a temple nearby, and Srimurtis were installed by Him. About two hundred years ago there was a great storm in that area and many ancient arrangements were devastated. A big Zamindar and devotee of the Gaudiya Sampradaya, came and restored the puja, the worshipping arrangements at Virachandrapura. All were desolated at that time.",
+			"files":[
+				{
+					"type":0,
+					"name":"Magnanimous_Nityananda.epub",
+					"size":1
+				}
+
+			]
+		},
+		{
+			"id":54,
+			"language":1,
+			"name":"The Life & Precepts of Srila Bhaktisiddhanta Saraswati",
+			"authorID":8,
+			"image":"SRILA-prabhupad.png",
+			"desc":"Srila Bhakti Siddhanta Saraswati Goswami Thakur Prabhupad, the disciple of Srila Gaura Kisora Das Babaji Maharaj, was the Guru of both Srila Bhakti Rakshak Sridhar Maharaj and Srila A.C. Bhaktivedanta Swami Prabhupad.\n\nSrila Bhakti Siddhanta Prabhupad preached that the Gaudiya Math stood for the dignity of the entire human race, by teaching wholesale surrender to the Absolute Good. Especially active in the field of publishing transcendental literature, his erudition was profoundly commanding and elaborate. He revolutionized Krishna conscious preaching by giving preference to pure devotional qualifications over lineage, and it was he who set the precedent of Vaishnava Tridanda-Sannyas [the renounced order of devotional life] in accordance with the injunctions of the revealed scriptures.\n\nIn a poem describing the descending divine succession of the Brahma Madhva Gaudiya Sampradaya, Srila Bhakti Siddhanta Saraswati Goswami Thakur Prabhupad wrote: sri krsna caitanya -- radha-krsna nahe anya, rupanuga janera jivana. Lord Sri Chaitanya Mahaprabhu is none other than Sri Sri Radha and Krishna, the life and soul of the true followers of Srila Rupa Goswami.\n\nTo exemplify this sublime ideal, Srila Bhakti Siddhanta established sixty-four Gaudiya Maths in India in the 1930's, and all through he embraced the line of worship of Lord Chaitanya as nondifferent from Sri Sri Radha and Krishna.\n\nThe deep sense of urgency he felt to propagate the divine teachings of Lord Chaitanya for the benefit of the suffering world of misconception is exemplified in the indomitable conviction of his statement: If fire burns the whole world, do not waste time trying to put it out. All necessities can be met only by serving Krishna.",
+			"files":[
+				{
+					"type":0,
+					"name":"Prabhupad.epub",
+					"size":4
+				}
+
+			]
+		},
+		{
+			"id":55,
+			"language":1,
+			"name":"Sri Guru and His Grace",
+			"authorID":2,
+			"image":"sri-guru-and-his-grace-eng.jpg",
+			"desc":"A must read book for any­one who is even a little ser­i­ous about their spir­itual life. Herein Srila Sridhar Maharaj explains the indis­pens­able neces­sity of guru for a spir­itual seeker; the qual­i­fic­a­tions of a guru and dif­fer­ent types of gurus; the qual­i­fic­a­tions of a dis­ciple and how a dis­ciple should view guru; the nature of truth, faith, and pro­gress; abso­lute and rel­at­ive con­sid­er­a­tions; the dif­fer­ence between the gayatri man­tra and maham­an­tra; the real mean­ing of diksha, shiksha, and para­m­para; and stages of spir­itual devel­op­ment.\nThroughout Srila Sridhar Maharaj gives much emphasis to intro­spec­tion and self-analysis, and the need to con­stantly fol­low the pure cur­rent of truth, how­so­ever it may appear: We are wor­shipers not of form, but of sub­stance. Included is a chapter on Lord Nityananda, The Original Guru, as well as a dis­cus­sion of the highest ideal of our line, Sri Radha Dasyam.",
+			"files":[
+				{
+					"type":0,
+					"name":"Sri-Guru-and-His-Grace.epub",
+					"size":2
+				}
+
+			]
+		},
+		{
+			"id":56,
+			"language":1,
+			"name":"The subjective evolution of councisness",
+			"authorID":2,
+			"image":"SUBJECTIVE-EVOLUTION-OF-CONSCIOUSNESS.jpg",
+			"desc":"If consciousness is the substratum of reality, what is the superstructure that is built upon it? In Subjective Evolution of Consciousness, Srila Sridhar Maharaj traces the development of consciousness from the origin of the species to various theistic and scientific postulates, and then takes an unexpected leap into the plane of ecstasy.\n\nSrila Sridhar Maharaj contends that, Three things must be conceived: existence, consciousness, and the food of consciousness, ecstasy.",
+			"files":[
+				{
+					"type":0,
+					"name":"Subjective_Evolution.epub",
+					"size":2
+				}
+			]	
+			},
+		{
+			"id":57,
+			"language":2,
+			"name":"Брахма Самхита",
+			"authorID":5,
+			"image":"brahma_samhita.jpg",
+			"desc":"Один из древнейших священных текстов, представляющий теистический взгляд на мироздание.\n\nНесмотря на сложность и философскую глубину этой небольшой книги, она признается своего рода азбукой. В ней раскрываются основные положения вайшнавской философии и в сжатой форме представлено духовное знание Шри Чайтаньи Махапрабху. Значительной книгу делают подробные комментарии к ее стихам вайшнавского мыслителя начала XX века Шрилы Бхактивинода Тхакура. Еще одна уникальная черта этого издания состоит в том, что в его осуществлении принимало участие несколько вайшнавских миссий. Книга бесценна для тех, кто избрал путь преданности Богу и стремится следовать ему. Но она будет интересна и для ученых, философов и религиоведов, а также всех тех, кто находится в духовном поиске.",
+			"files":[
+				{
+					"type":0,
+					"name":"brahma_samhita/brahma_samhita.epub",
+					"size":1
+				}
+
+			]
+		},
+		{
+			"id":58,
+			"language":2,
+			"name":"Золотой вулкан божественной любви",
+			"authorID":1,
+			"image":"zolotoy_vulkan_bozhestvennoy_lyubvi.jpg",
+			"desc":"Шри Чайтанья Махапрабху проповедовал совершенную теистическую концепцию, данную в Шримад-Бхагаватам. Он явил сущность этого великого священного писания Своими жизнью и учением. Наивысшим достижением теизма Шримад-Бхагаватам определяет не сознание, не познание реальности при помощи разума и не учение о мироздании, но поиск любви, красоты и гармонии — того, что определяется санскритским термином - раса. Шри Чайтанья учил, что радость в наибольшей степени проявляется в отношениях с Господом, а самая сильная боль — в разлуке с Ним. Но далее Он раскрывал наивысший принцип: боль разлуки с Кришной бесконечно сильнее блаженства единения с Ним. Таким образом, любовь к Кришне означает, что нам придется умереть, чтобы жить. И эта новая жизнь подобна нектару.\nЗолотой вулкан божественной любви в первой части рассказывает об удивительной жизни Шри Чайтаньи Махапрабху, а во второй — раскрывает суть Его основных восьми наставлений. Книга предназначена тем, кто серьезно следует идее самозабвенного служения Богу, а также тем, кто знаком и желает более глубоко понять суть гаудия-вайшнавизма.",
+			"files":[
+				{
+					"type":0,
+					"name":"zolotoy_vulkan_bozhestvennoy_lyubvi/zolotoy_vulkan_bozhestvennoy_lyubvi.epub",
+					"size":2
+				}
+
+			]
+		},
+		{
+			"id":59,
+			"language":2,
+			"name":"Океан Нектара",
+			"authorID":1,
+			"image":"okean_nektara_shrila_shridkhar_makharadzh.jpg",
+			"desc":"Дух современности – непрерывное движение, все возрастающие скорости, поток информационных технологий. Возможно ли в таких условиях заниматься духовной практикой? Как утолить глубочайшую жажду сердца? В этой книге излагается самая доступная и действенная практика духовной жизни в наше время.\nОписываемый метод открыт для всех независимо от национальности и положения в обществе. Это радостный путь любви к Богу, любви бесконечной, безусловной, универсальной, ничего не требующей взамен.",
+			"files":[
+				{
+					"type":0,
+					"name":"okean_nektara_shrila_shridkhar_makharadzh/okean_nektara_shrila_shridkhar_makharadzh.epub",
+					"size":2
+				}
+
+			]
+		},
+		{
+			"id":60,
+			"language":2,
+			"name":"Поиск Шри Кришны, Прекрасной Реальности",
+			"authorID":1,
+			"image":"poisk_shri_krishny_shrila_shridkhar_makharadzh.jpg",
+			"desc":"Книга составлена на основе бесед с выдающимся теологом, поэтом и признанным духовным учителем Б. Р. Шридхаром Свами. Беседы проходили в начале восьмидесятых годов прошлого века в г. Навадвипа, Индия, штат Западная Бенгалия. В них были затронуты самые разные темы, связанные с духовной жизнью человека.",
+			"files":[
+				{
+					"type":0,
+					"name":"poisk_shri_krishny_shrila_shridkhar_makharadzh/poisk_shri_krishny_shrila_shridkhar_makharadzh.epub",
+					"size":2
+				}
+
+			]
+		},
+		{
+			"id":61,
+			"language":2,
+			"name":"Путь домой, в мир Прекрасной Реальности",
+			"authorID":1,
+			"image":"put_domoi_v_mir_priekrasnoi_r_shrila_shridkhar_makharadzh.jpg",
+			"desc":"Книга Шрилы Шридхара Махараджа начинается словами: Я постараюсь изложить вам в общих чертах суть предмета, не опираясь на какие бы то ни было религиозные концепции. Путь домой – это путь в духовную обитель, мир бескорыстной преданности Господу, наполняющий существование каждого любовью и блаженством. Войти в эту высшую обитель можно лишь благодаря помощи ее представителей и нашей искренности – милость выше справедливости, а искренность непобедима.\nНаш истинный дом – это прекрасная, вечная реальность.",
+			"files":[
+				{
+					"type":0,
+					"name":"put_domoi_v_mir_priekrasnoi_r_shrila_shridkhar_makharadzh/put_domoi_v_mir_priekrasnoi_r_shrila_shridkhar_makharadzh.epub",
+					"size":2
+				}
+
+			]
+		},
+		{
+			"id":62,
+			"language":2,
+			"name":"Сердце и сияние",
+			"authorID":1,
+			"image":"serdtse_i_siyanie_shrila_shridkhar_makharadzh.jpg",
+			"desc":"Однажды Шрила Шридхара Махарадж искал подходящее выражение, которое описывало бы внутренние и внешние качества Радхарани – женского аспекта Божественной энергии. Ученики старались помочь и предлагали разнообразные варианты: чувство и блистание, настроение и блеск тела и тому подобные. Вдруг Шридхара Махарадж сказал: Сердце и сияние!\n\nЭтим выражением и был озаглавлен сборник, составленный на основе бесед Шрилы Бхакти Ракшака Дев-Госвами Махараджа, выдающегося теолога, философа и духовного учителя, с его учениками в 1982-1985 гг.\n\nЧеловек сути – так называл Шридхара Махараджа его Гуру, Шрила Бхакти Сиддханта Сарасвати Тхакур. Человек вечного разума – так назвали его те, кому посчастливилось общаться с ним, за его способность проникать в самую суть, в глубину философии бхакти – пути к Богу через абсолютную любовь и самопредание.\n\nВ этих беседах Шрила Шридхара Махарадж раскрывает значение самых сокровенных аспектов философии бхакти: Какова природа души и ее предназначение? Какова природа и качества Абсолюта и в каких отношениях находится с Ним душа? Какова природа лилы – вечной и непрекращающейся игры Господа? В чем заключается смысл и цель жизни человека?\nКнига будет интересна и полезна тем, кто уже знаком с философией бхакти, и особенно тем, кто выбрал ее своим методом духовной практики.",
+			"files":[
+				{
+					"type":0,
+					"name":"serdtse_i_siyanie_shrila_shridkhar_makharadzh/serdtse_i_siyanie_shrila_shridkhar_makharadzh.epub",
+					"size":2
+				}
+
+			]
+		},
+		{
+			"id":63,
+			"language":2,
+			"name":"Ступени истины",
+			"authorID":1,
+			"image":"stupeni_istiny_shrila_shridkhar_makharadzh.jpg",
+			"desc":"Книга составлена на основе бесед 1981-1985 г.г. со Шрилой Б. Р. Шридхаром Свами. Беседы проходили в г. Навадвипа, Индия, штат Западная Бенгалия. Темы, затронутые в книге, подобраны таким образом, чтобы показать действительный практический метод развития искреннего ученика, следующего по пути чистого преданного служения Шри Кришне.",
+			"files":[
+				{
+					"type":0,
+					"name":"stupeni_istiny_shrila_shridkhar_makharadzh/stupeni_istiny_shrila_shridkhar_makharadzh.epub",
+					"size":2
+				}
+
+			]
+		},
+		{
+			"id":64,
+			"language":2,
+			"name":"Шаранагати",
+			"authorID":5,
+			"image":"sharanagati.jpg",
+			"desc":"Шаранагати (Полное предание себя Господу, Обретение прибежища) — сборник, в который вошло пятьдесят песен, описывающих полное и безоговорочное вручение себя лотосоподобным стопам Господа Кришны. Сборник приобрел большую популярность, и песни из него и по сей день исполняют в сотнях храмов в Индии и за ее пределами. Сборник открывают тридцать две песни, которые описывают настроение преданного, неуклонно следующего шести методам вручения себя Господу, изложенным Рупой Госвами в Бхакти-расамрита-синдху. Далее следует тринадцать песен под общим названием Бхаджана-лаласа (Стремление поклоняться Господу), написанных по мотивам Упадешамриты (Нектара наставлений) Рупы Госвами. Затем идут еще три песни, озаглавленные Сиддха-лаласа (Стремление к совершенству), и две песни под названием Вигьяпти (Исповедь), в которых Бхактивинода Тхакур говорит о своем желании приблизить день, когда он сможет полностью посвятить свое тело, ум и речь чистому преданному служению. Завершает сборник Нама-махатмья (Прославление Святого Имени).",
+			"files":[
+				{
+					"type":0,
+					"name":"sharanaghati/sharanaghati_shrila_bkhaktivinod_tkhakur.epub",
+					"size":2
+				}
+
+			]
+		},
+		{
+			"id":65,
+			"language":3,
+			"name":"家的安慰 满足内心深处的渴望",
+			"authorID":2,
+			"image":"home_comfort_ch.jpg",
+			"desc":"",
+			"files":[
+				{
+					"type":0,
+					"name":"home_comfort_ch/home_comfort_ch.epub",
+					"size":2
+				}
+
+			]
+		}
+
+
+
+	]
+}
